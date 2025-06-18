@@ -1,0 +1,22 @@
+blank_issues_enabled: false
+
+issue_templates:
+  - name: 🐛 Bug Report
+    description: Report something broken or unexpected
+    labels: [bug, needs-triage]
+    file: '🐛-bug-report.md'
+
+  - name: 🌟 Feature Request
+    description: Propose a new feature or enhancement
+    labels: [enhancement, needs-triage]
+    file: '🌟-feature-request.md'
+
+  - name: 📚 Docs Improvement
+    description: Suggest fixes or improvements to Speaker Toolkit documentation
+    labels: [documentation, needs-triage]
+    file: '📚-docs-improvement.md'
+
+  - name: 🧠 Design Proposal
+    description: Share an architecture or module-level idea for community input
+    labels: [design, needs-discussion]
+    file: '🧠-design-proposal.md'
