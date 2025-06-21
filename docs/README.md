@@ -4,8 +4,8 @@ Welcome to the Speaker Toolkit documentation repository. This folder consolidate
 
 ## Current Contents
 
-- **[/brand-identity/](brand-identity\README.md)**  
-  Contains the complete Brand Identity Guide, which is divided into the following chapters:
+- [**/brand-identity/**](brand-identity/README.md) 
+- Contains the complete Brand Identity Guide, which is divided into the following chapters:
   1. **Introduction & Vision** – Outlining our overarching mission, vision, and guiding principles.
   2. **Brand Personality & Emotional Tone** – Defining the core traits and emotional resonance that shape our interaction with speakers.
   3. **Visual Identity** – Establishing our definitive color palette, typography, iconography, and logo usage.
